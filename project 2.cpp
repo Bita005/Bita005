@@ -26,7 +26,7 @@ int main() {
     laptop1.graphics_card = "GeForce RTX 4070";
     laptop1.ram = 32;
     laptop1.storage = 1000;
-    laptop1.price = 566.022;
+    laptop1.price = 900.022;
     laptop1.display();
 
     return 0;
